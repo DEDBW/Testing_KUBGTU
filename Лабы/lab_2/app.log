@@ -1,0 +1,16 @@
+2024-10-12 08:40:23,695 - INFO - Iteration 1: n=2, In=0.3223422301356468, I2n=0.3726454669605836, Error=0.0033535491216624544
+2024-10-12 08:40:23,695 - INFO - Iteration 2: n=4, In=0.3726454669605836, I2n=0.3711059212747654, Error=0.0001026363790545474
+2024-10-12 08:40:23,695 - INFO - Final value: 0.3708976777128028, iterations amount: 2
+2024-10-12 08:40:30,583 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2024-10-12 09:12:34,783 - INFO - Iteration 1: n=2, In=0.3223422301356468, I2n=0.3726454669605836, Error=0.0033535491216624544
+2024-10-12 09:12:34,783 - INFO - Iteration 2: n=4, In=0.3726454669605836, I2n=0.3711059212747654, Error=0.0001026363790545474
+2024-10-12 09:12:34,784 - INFO - Final value: 0.3708976777128028, iterations amount: 2
+2024-10-12 09:12:50,335 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2024-10-18 11:13:12,712 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2024-10-18 11:31:19,398 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2025-09-20 08:34:51,796 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2025-09-20 08:34:59,650 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2025-09-20 08:36:10,612 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2025-09-20 08:36:17,557 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2025-09-20 08:37:31,225 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
+2025-09-20 08:37:52,365 - ERROR - AssertionError occurred: This value x = -3.0 not in [-1, 1]
